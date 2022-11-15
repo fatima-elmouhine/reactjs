@@ -1,0 +1,11 @@
+.mapRow {
+    text-align: center;
+    height: 100%;
+    width: 100%;
+}
+
+.mapContainer {
+    overflow: hidden;
+    height: 100vh;
+    width: 100%;
+}
